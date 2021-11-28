@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinicius-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvnulman/)](https://www.linkedin.com/in/mvnulman/) 
 [![Gmail Badge](https://img.shields.io/badge/-mvsouza7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mvsouza7@gmail.com)](mailto:mvsouza7@gmail.com)
 
-Full Stack Developer with a Graphic Design and Marketing background. I am seeking web development and software engineering positions which will allow me to grow as a professional and contribute my problem solving, teamwork and critical thinking skills.
+Junior Front End Developer with a Graphic Design and Marketing background. I am seeking web development and software engineering positions which will allow me to grow as a professional and contribute my problem solving, teamwork and critical thinking skills.
 
 ![63921-developer](https://user-images.githubusercontent.com/63374582/135618386-fdbab081-3e36-4559-9ab6-d20229f59cfd.gif)
 
@@ -31,7 +31,7 @@ Full Stack Developer with a Graphic Design and Marketing background. I am seekin
 <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <br>
