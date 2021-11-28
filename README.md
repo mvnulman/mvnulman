@@ -1,14 +1,12 @@
-# Hello, Marcos here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"> 
+# Hellooo!, Marcos here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"> 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinicius-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvnulman/)](https://www.linkedin.com/in/mvnulman/) 
 [![Gmail Badge](https://img.shields.io/badge/-mvsouza7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mvsouza7@gmail.com)](mailto:mvsouza7@gmail.com)
 
-Junior Front End Developer with a Graphic Design and Marketing background (5+ years). 
-I am seeking web development and software engineering positions which will allow me to grow as a professional and contribute my problem solving, teamwork and critical thinking skills.
 
-![63921-developer](https://user-images.githubusercontent.com/63374582/135618386-fdbab081-3e36-4559-9ab6-d20229f59cfd.gif)
+Junior Front End Developer, focused on ReactJS with a Graphic Design and Marketing background.
+![animation_300_kwjpop6a](https://user-images.githubusercontent.com/63374582/143785328-eb847f64-6766-4269-811e-9d65bcce1e17.gif)
 
-
-## More about me
+## About me
 
 🚀 I'm passionate about technologies and programming.  <br>
 
@@ -21,7 +19,6 @@ I am seeking web development and software engineering positions which will allow
 ⚡ Fun fact I love 🎮
 
 🎸 and 📸 in the free time! 
-
 
 ### Languages and Tools:
 ---
