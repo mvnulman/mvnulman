@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mvsouza7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mvsouza7@gmail.com)](mailto:mvsouza7@gmail.com)
 
 
-Junior Front End Developer, focused on ReactJS with a Graphic Design and Marketing background.
+Front End Developer, focused on ReactJS with a Graphic Design and Marketing background.
 ![animation_300_kwjpop6a](https://user-images.githubusercontent.com/63374582/143785328-eb847f64-6766-4269-811e-9d65bcce1e17.gif)
 
 ## About me
