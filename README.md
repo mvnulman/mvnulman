@@ -1,8 +1,7 @@
 ### Hey, Marcos here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"> 
 
- <a href = "mailto:mvsouza7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
- <a href="https://www.linkedin.com/in/mvnulman" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<img src="C:\Users\Marcos Vinicius\Desktop" />
+ <a href = "mailto:mvsouza7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" width="80px"></a >
+ <a href="https://www.linkedin.com/in/mvnulman" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="100px"></a> 
 
 #### About me
 ---
