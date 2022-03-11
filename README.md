@@ -13,7 +13,8 @@
 - ⚡ Fun fact I love 🎮
 - 🎸 and 📸 in the free time! 
 
-#### Languages and Tools: 
 ---
+#### Languages and Tools: 
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,figma,ps,ai )](https://skillicons.dev)
 
