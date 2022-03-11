@@ -4,7 +4,7 @@
  <a href="https://www.linkedin.com/in/mvnulman" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <img src="C:\Users\Marcos Vinicius\Desktop" />
 
-##### About me
+#### About me
 ---
 
 - 🚀 Front End Developer, focused on ReactJS with a Graphic Design and Marketing background.
@@ -14,7 +14,7 @@
 - ⚡ Fun fact I love 🎮
 - 🎸 and 📸 in the free time! 
 
-##### Languages and Tools: 
+#### Languages and Tools: 
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,figma,ps,ai )](https://skillicons.dev)
 
