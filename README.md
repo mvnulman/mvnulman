@@ -3,7 +3,7 @@
 <a href = "mailto:mvsouza7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" width="80px"></a >
 <a href="https://www.linkedin.com/in/mvnulman" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="100px"></a> <br>
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63374582/158030462-4ba2aad4-fc5a-4434-ab99-46824c0644ce.png" width="250" />
+<img src="https://user-images.githubusercontent.com/63374582/158030462-4ba2aad4-fc5a-4434-ab99-46824c0644ce.png" width="200" />
 
 
 #### About me
