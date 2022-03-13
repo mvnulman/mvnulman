@@ -7,7 +7,7 @@
 
 #### About me
 
-- 🚀 Front End Developer, focused on ReactJS with a Graphic Design and Marketing background.
+- 🚀 Front End Developer, focused on ReactJS.
 - 💡 I'm a hard worker and I have a strong resilience at work.
 - 🎯 Whenever I work on a project, I'm totally dedicated. 
 - 🏆 I focus on every detail and always work on making it better.
