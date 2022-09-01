@@ -17,5 +17,5 @@
 
 #### Languages and Tools
 
- <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,figma,ps,ai,bash,vscode" height="42"/>
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,jest,nodejs,git,figma,ps,ai,bash,vscode" height="42"/>
 
