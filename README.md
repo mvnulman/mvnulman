@@ -1,4 +1,4 @@
-Hi, I'm Marcos Vinicius👋
+## Hi, I'm Marcos Vinicius👋
 
 I'm a Software Developer, focused on building clean, reliable and modern web applications using React.js, TypeScript, Next.js and good UI/UX practices.
 
