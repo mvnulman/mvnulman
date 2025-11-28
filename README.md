@@ -12,6 +12,6 @@ Find me elsewhere:
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
 
-<a href="https://mv-personal-portfolio-2025.vercel.app/" target="_blank">
+<a href="https://mvn-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
 </a>
