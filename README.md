@@ -8,6 +8,14 @@ I work on complex applications, transforming business requirements into scalable
 
 Currently, I'm expanding my stack toward **Full Stack development**, building backend applications and APIs with **Node.js, NestJS, Prisma and relational databases**.
 
+<a href="https://www.linkedin.com/in/mvnulman" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+</a>
+
+<a href="https://mvn-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
+</a>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -69,17 +77,5 @@ Currently, I'm expanding my stack toward **Full Stack development**, building ba
 * Testing applications with **Jest, Vitest and React Testing Library**
 * Building backend APIs with **Node.js, Express and NestJS**
 * Working with relational databases using **PostgreSQL, SQL and Prisma**
-
----
-
-## 🌎 Find me elsewhere
-
-<a href="https://www.linkedin.com/in/mvnulman" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-</a>
-
-<a href="https://mvn-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
-</a>
 
 ---
